@@ -20,6 +20,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+<img src = "waffles_1.jpg">
+
 1. Numbered
 2. List
 
