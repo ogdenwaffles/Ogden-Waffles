@@ -36,4 +36,4 @@ Gluten-Free: Additional $0.25
 
 ### Place an Order
 
-Please place an order here. Delivery adds $5 to the order. 
+To place an order, please email ogdenwaffleclub@gmail.com with your name, residence, selection, and takeout/deliver. Delivery adds $5 to the order. Thank you for your business.
