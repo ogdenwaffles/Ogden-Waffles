@@ -31,7 +31,7 @@ Gluten-Free: Additional $0.25
 
 
 
-<img src = "https://user-images.githubusercontent.com/79684104/109269201-27d86100-77da-11eb-888d-3b88209ad945.jpg" width = 50 height = 50>
+<img src = "https://user-images.githubusercontent.com/79684104/109269201-27d86100-77da-11eb-888d-3b88209ad945.jpg" width = 200 height = 200>
 
 
 ### Place an Order
