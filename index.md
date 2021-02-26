@@ -13,19 +13,19 @@ Gluten-Free: Additional $0.25
 
 
 
-Peanut Butter
+<b>Peanut Butter</b>
 <br>
-Peanut Butter Banana
+<b>Peanut Butter Banana</b>
 <br>
-Peanut Butter Chocolate Chip
+<b>Peanut Butter Chocolate Chip</b>
 <br>
-Chocolate Chip
+<b>Chocolate Chip</b>
 <br>
-Chocolate Chip Banana
+<b>Chocolate Chip Banana</b>
 <br>
-Nutella
+<b>Nutella</b>
 <br>
-Nutella Peanut Butter
+<b>Nutella Peanut Butter</b>
 <br>
 
 
