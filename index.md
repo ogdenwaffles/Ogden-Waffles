@@ -28,6 +28,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](https://raw.githubusercontent.com/ogdenwaffles/Ogden-Waffles/main/waffles_1.jpg)
+
+<img src = "https://raw.githubusercontent.com/ogdenwaffles/Ogden-Waffles/main/waffles_1.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
