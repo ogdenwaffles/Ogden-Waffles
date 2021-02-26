@@ -37,6 +37,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+![waffles_1](https://user-images.githubusercontent.com/79684104/109269201-27d86100-77da-11eb-888d-3b88209ad945.jpg)
+
 
 ### Place an Order
 
