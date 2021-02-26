@@ -4,9 +4,10 @@ We hope you enjoy the quality and care poured out into these delicious treats. W
 
 ### Menu
 
-Below are our regular and speciality waffles. 
 Regular: $0.50
+<br>
 Speciality: $1.50
+<br>
 Gluten-Free: Additional $0.25
 
 ```markdown
