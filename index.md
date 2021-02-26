@@ -11,7 +11,7 @@ Speciality: $1.50
 Gluten-Free: Additional $0.25
 <br>
 
-
+### Speciality Waffles
 
 <b>Peanut Butter</b>
 <br>
