@@ -9,17 +9,24 @@ Regular: $0.50
 Speciality: $1.50
 <br>
 Gluten-Free: Additional $0.25
+<br>
 
-```markdown
-Syntax highlighted code block
 
-# Peanut Butter
-## Peanut Butter Banana
-### Peanut Butter Chocolate Chip
-### Chocolate Chip
-## Chocolate Chip Banana
-## Nutella
-# Nutella Peanut Butter
+
+Peanut Butter
+<br>
+Peanut Butter Banana
+<br>
+Peanut Butter Chocolate Chip
+<br>
+Chocolate Chip
+<br>
+Chocolate Chip Banana
+<br>
+Nutella
+<br>
+Nutella Peanut Butter
+<br>
 
 
 
